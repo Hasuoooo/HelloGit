@@ -3,3 +3,6 @@ def remover(lista, elemento):
 
 def subtracao(a, b):
     return a - b
+
+def divisao(a, b):
+    return a/b
